@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ddv edit", "fast edit ddv\ddv edit.csproj", "{38443F60-3C90-4464-852C-1D8BE7F4EF25}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{38443F60-3C90-4464-852C-1D8BE7F4EF25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38443F60-3C90-4464-852C-1D8BE7F4EF25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38443F60-3C90-4464-852C-1D8BE7F4EF25}.Debug|x64.ActiveCfg = Debug|x64
+		{38443F60-3C90-4464-852C-1D8BE7F4EF25}.Debug|x64.Build.0 = Debug|x64
+		{38443F60-3C90-4464-852C-1D8BE7F4EF25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38443F60-3C90-4464-852C-1D8BE7F4EF25}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38443F60-3C90-4464-852C-1D8BE7F4EF25}.Release|x64.ActiveCfg = Release|x64
+		{38443F60-3C90-4464-852C-1D8BE7F4EF25}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {88713DD9-0CE1-4ADD-B6F8-7FFA5699012D}
+	EndGlobalSection
+EndGlobal
